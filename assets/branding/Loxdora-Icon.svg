@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 128 128" role="img" aria-labelledby="loxdora-icon-title">
+  <title id="loxdora-icon-title">Loxdora</title>
+  <rect width="128" height="128" rx="27" fill="#8cff70"/>
+  <path fill="#161c17" fill-rule="evenodd" d="M28 60C28 37 44 21 64 21s36 16 36 39v27c0 12-8 20-20 20H48c-12 0-20-8-20-20V63h59v-3c0-15-10-26-23-26S41 45 41 60H28Zm36 15a6 6 0 0 1 6 6v10a6 6 0 0 1-12 0V81a6 6 0 0 1 6-6Z"/>
+  <path d="M94 36c-4 7-6 14-7 22" fill="none" stroke="#8cff70" stroke-width="1.6" stroke-linecap="round"/>
+</svg>

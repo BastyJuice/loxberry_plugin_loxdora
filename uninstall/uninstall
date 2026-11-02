@@ -1,0 +1,12 @@
+#!/bin/bash
+set -eu
+task_worker='REPLACELBPBINDIR/worker.php'
+if [ -f "$task_worker" ]; then
+    # LoxBerry has removed cron jobs before calling this hook.
+    if [ "$(id -u)" = 0 ]; then
+        runuser -u loxberry -- /usr/bin/php "$task_worker" --stop
+    else
+        /usr/bin/php "$task_worker" --stop
+    fi
+fi
+exit 0

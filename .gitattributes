@@ -1,0 +1,17 @@
+* text=auto
+*.php text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.cfg text eol=lf
+
+# Preserve the official development fixtures byte for byte.
+# They are vendor code rather than the plugin's primary language.
+tests/official-lb4/** -text -whitespace linguist-vendored
+
+*.png -text
+*.ico -text
+*.woff -text
+*.ttf -text
+*.eot -text
+*.zip -text

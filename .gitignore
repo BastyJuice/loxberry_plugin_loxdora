@@ -1,0 +1,38 @@
+# Local editors and operating-system files
+.DS_Store
+._*
+.idea/
+.vscode/
+
+# Local test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+
+# Private configuration and runtime data must never be published
+.env
+.env.*
+!.env.example
+/config/
+/data/
+/log/
+/logs/
+/output/
+/outputs/
+/tmp/
+secret.key
+vehicles.json
+credentials.json
+*.cookies
+*.cookie
+*.pem
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+sessions/
+
+# Publish the current reviewed installation ZIP only
+/dist/*
+!/dist/loxdora-0.3.1.zip
