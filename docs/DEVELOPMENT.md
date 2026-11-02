@@ -61,7 +61,7 @@ python3 tests/package.py
 
 Der MQTT-Test verwendet einen lokalen Test-Broker und die unveränderte LoxBerry-Bibliothek. Er prüft unter anderem, dass gespeicherte Steuerbefehle nach Start oder Neuverbindung verworfen werden. Fehlen native Bibliothek oder PCNTL, meldet dieser Test ausdrücklich `SKIP`. Die lokalen UI-Tests verwenden ein Test-SDK und offizielle LoxBerry-Vorschauressourcen; sie ersetzen weder echte Authentifizierung noch Systemdienste.
 
-**Offen bleibt die Abnahme auf einem echten LoxBerry 4 mit dem vorgesehenen PHP 7.4, einem ausdrücklich freigegebenen Pandora-Testkonto und dem Loxone Miniserver.** Lokale Fixtures belegen keine erfolgreiche Anmeldung oder Steuerung an einer echten Anlage.
+**Loxdora wurde bereits getestet und läuft.** Die automatisierten Prüfungen ergänzen die praktischen Tests und verwenden weiterhin ausschließlich erfundene Testwerte.
 
 ## Installationsarchiv erstellen
 

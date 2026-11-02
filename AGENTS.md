@@ -11,6 +11,11 @@ Loxdora ist eine private Entwicklung von BastyJuice. In der Projektdarstellung
 keinen beruflichen Ursprung, Auftraggeber oder eine Entstehung im Rahmen einer
 Pandora-Systempartnerschaft behaupten.
 
+Der Entwickler hat bestätigt, dass Loxdora bereits getestet wurde und läuft.
+Keine ausstehende praktische Abnahme oder einen ungetesteten Stand behaupten.
+Keine konkreten getesteten Anlagen, Firmwarestände oder vollständige
+Kompatibilitätsfreigaben erfinden. Die Regeln zu Zugangsdaten bleiben bestehen.
+
 # Umsetzung
 
 Das Plugin bleibt mit PHP 7.4 und den vorhandenen LoxBerry-4-Komponenten kompatibel.

@@ -97,7 +97,7 @@ Ein gesendeter Befehl ist noch keine bestätigte Ausführung. Loxdora prüft die
 
 Verfügbare Messwerte, Meldungen und Steuerfunktionen hängen von der Pandora-Anlage, ihrer Ausstattung und den Kontoberechtigungen ab. Angezeigt wird der letzte bekannte Zustand. Daten ohne verlässlichen Zeitstempel oder älter als fünf Minuten werden als veraltet markiert. Die Meldungsansicht umfasst die verfügbaren Einträge der letzten sieben Tage, höchstens 50; sie ist keine vollständige Historie.
 
-**Loxdora befindet sich in Entwicklung.** Die lokalen Prüfungen verwenden erfundene Testdaten. Die Abnahme auf einem echten LoxBerry 4 mit PHP 7.4, einem ausdrücklich freigegebenen Pandora-Testkonto und dem Loxone Miniserver steht noch aus. Änderungen an der Pandora-Cloud können Anpassungen am Plugin erfordern.
+**Loxdora ist getestet und lauffähig.** Änderungen an der Pandora-Cloud können Anpassungen am Plugin erfordern.
 
 Passwörter und Cookie-Sitzungen werden verschlüsselt außerhalb des Webverzeichnisses gespeichert. Der Schlüssel liegt auf demselben LoxBerry; ein Administrator des Geräts kann auf diese Daten zugreifen. Weitere Hinweise zu Speicherung, Sicherung und Updates stehen in **[Entwicklung & Technik](docs/DEVELOPMENT.md)**.
 
