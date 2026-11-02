@@ -8,7 +8,7 @@
 
 Deine Pandora-Fahrzeuge im Smart Home sehen und steuern.
 
-**[Plugin herunterladen](https://github.com/BastyJuice/loxberry_plugin_loxdora/raw/refs/heads/main/dist/loxdora-0.3.1.zip)** · [Einrichtung](#schnellstart) · [MQTT & Loxone](MQTT.md)
+**[Plugin herunterladen](https://github.com/BastyJuice/loxberry_plugin_loxdora/releases/download/0.3.1/loxdora-0.3.1.zip)** · [Einrichtung](#schnellstart) · [MQTT & Loxone](MQTT.md)
 
 LoxBerry 4 · PHP 7.4+ · Version 0.3.1 · Anbindung über die Pandora-Cloud
 
@@ -38,7 +38,7 @@ Du brauchst einen **LoxBerry 4 mit PHP 7.4 oder neuer**, ein Pandora-Konto und e
 
 ### 1. Plugin installieren
 
-Das **[Installationspaket 0.3.1 herunterladen](https://github.com/BastyJuice/loxberry_plugin_loxdora/raw/refs/heads/main/dist/loxdora-0.3.1.zip)** und über die Pluginverwaltung des LoxBerry installieren. Anschließend **Loxdora** öffnen.
+Das **[Installationspaket 0.3.1 herunterladen](https://github.com/BastyJuice/loxberry_plugin_loxdora/releases/download/0.3.1/loxdora-0.3.1.zip)** und über die Pluginverwaltung des LoxBerry installieren. Anschließend **Loxdora** öffnen.
 
 Das Plugin benötigt weder Composer noch Python, Node.js, eine Datenbank oder einen eigenen MQTT-Broker auf dem LoxBerry.
 
