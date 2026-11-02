@@ -103,7 +103,7 @@ Passwörter und Cookie-Sitzungen werden verschlüsselt außerhalb des Webverzeic
 
 ## Hintergrund & Weiterentwicklung
 
-Loxdora ist aus der Arbeit als Pandora Excellence Systempartner in Norddeutschland und dem Austausch mit Loxone-Nutzern entstanden. Die technische Grundlage stammt aus dem bestehenden Pandora-Connect-Portal von **[pandora-nord.de](https://www.pandora-nord.de/)**.
+Loxdora ist eine private Entwicklung von **[BastyJuice](https://github.com/BastyJuice)**, entstanden aus persönlichem Interesse an der Verbindung von Pandora und Loxone.
 
 Es ist eine eigenständige Entwicklung, kein offizielles Plugin von Pandora, LoxBerry oder Loxone. Für Einrichtung und Fehlersuche helfen **[MQTT & Loxone](MQTT.md)**, die **Diagnose** im Plugin und die **[Entwicklungsdokumentation](docs/DEVELOPMENT.md)**.
 

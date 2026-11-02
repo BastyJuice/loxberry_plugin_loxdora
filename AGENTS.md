@@ -7,6 +7,10 @@ Tests ausschließlich mit ausdrücklich erfundenen Testwerten und lokalen Fixtur
 Keine echten Fahrzeugdaten oder Zugangsdaten in Quellcode, Testdaten, Ausgaben
 oder Plugin-Archive übernehmen.
 
+Loxdora ist eine private Entwicklung von BastyJuice. In der Projektdarstellung
+keinen beruflichen Ursprung, Auftraggeber oder eine Entstehung im Rahmen einer
+Pandora-Systempartnerschaft behaupten.
+
 # Umsetzung
 
 Das Plugin bleibt mit PHP 7.4 und den vorhandenen LoxBerry-4-Komponenten kompatibel.
